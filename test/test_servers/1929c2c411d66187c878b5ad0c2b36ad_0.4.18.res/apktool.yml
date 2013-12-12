@@ -1,0 +1,12 @@
+version: 1.5.3.2c5f176a94
+apkFileName: 48e5dee5a510db94a97f1b850ecaa69e_0.4.18.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '4'
+packageInfo:
+  orig_package: com.lge.showcase.test
+  cur_package: android
+compressionType: false

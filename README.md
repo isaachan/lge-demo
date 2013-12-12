@@ -1,4 +1,0 @@
-lge-demo
-========
-
-lge-demo
